@@ -11,4 +11,7 @@ The approach followed -
 5. Prediction analysis is applied on the obtained data.
 6. Viola! You get your shirt size.
 
+* This is a small dataset, I am planning to use Transfer Learning to get more accurate results.
+### Stay Tuned
+
 

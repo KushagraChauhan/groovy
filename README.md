@@ -12,6 +12,7 @@ The approach followed -
 6. Viola! You get your shirt size.
 
 * This is a small dataset, I am planning to use Transfer Learning to get more accurate results.
+* Also planning to create a web app using Flask.
 ### Stay Tuned
 
 
